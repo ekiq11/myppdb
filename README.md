@@ -30,7 +30,7 @@ Proyek ini adalah sebuah aplikasi berbasis Laravel yang dirancang khusus untuk m
 
 ## Instalasi
 
-Berikut langkah-langkah untuk menginstal dan menjalankan proyek:
+Berikut langkah-langkah untuk menginstal dan menjalankan proyek ini:
 
 1. Clone repository:
 
